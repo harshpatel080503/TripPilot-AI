@@ -1,0 +1,36 @@
+# API Keys & Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.venv/
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases
+*.db
+*.sqlite3
+travel_runs.db
+travel_runs.db-shm
+travel_runs.db-wal
+
+# OS / Tooling
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.playwright-mcp/
+pricer_out.txt
